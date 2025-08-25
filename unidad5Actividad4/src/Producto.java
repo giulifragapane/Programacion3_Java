@@ -55,4 +55,10 @@ public class Producto {
         // Esto significa que dos productos son iguales si tienen el mismo código,
         // sin importar si el nombre o precio son distintos.
     }
+
+    // Siempre se recomienda sobrescribir hashCode cuando se sobrescribe equals
+    @Override
+    public int hashCode() {
+        return Objects.hash(codigo);
+    }
 }
