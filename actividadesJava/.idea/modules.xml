@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/actividadLombok.iml" filepath="$PROJECT_DIR$/actividadLombok.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/actividadLombok.main.iml" filepath="$PROJECT_DIR$/.idea/modules/actividadLombok.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/actividadLombok.test.iml" filepath="$PROJECT_DIR$/.idea/modules/actividadLombok.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actividadLombok2.iml" filepath="$PROJECT_DIR$/actividadLombok2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/actividadLombok2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/actividadLombok2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/actividadLombok2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/actividadLombok2.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/actividadesJava.iml" filepath="$PROJECT_DIR$/.idea/actividadesJava.iml" />
     </modules>
   </component>
